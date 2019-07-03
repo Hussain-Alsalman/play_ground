@@ -1,5 +1,4 @@
 Hello World
 
-This is me and my friends
 
 Everybody seems to enjoy git so much. All is following along. 
