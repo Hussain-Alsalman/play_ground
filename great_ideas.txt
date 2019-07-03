@@ -3,3 +3,5 @@ Here is a list of great ideas
 Hanaa ideas 
 
 Git is fine but I am really looking forward to learn more about R. 
+
+I started to like git
