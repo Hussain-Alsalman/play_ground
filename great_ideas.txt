@@ -1,7 +1,8 @@
 Here is a list of great ideas
 
 1- I love git. Now I understand why people make branches. 
-2- I understand git world better. I think this is gonna be awesome
-3- Git is fine but I am really looking forward to learn more about R. 
+2- I understand git world better. I think this is gonna be awesome 
+3- Git is fine but I am really looking 
+forward to learn more about R. 
 4- I started to like git
-
+5- git needs some time to practice and undrestand
