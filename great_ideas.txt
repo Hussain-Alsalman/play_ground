@@ -6,3 +6,4 @@ Here is a list of great ideas
 forward to learn more about R. 
 4- I started to like git
 5- git needs some time to practice and undrestand
+7- something something
